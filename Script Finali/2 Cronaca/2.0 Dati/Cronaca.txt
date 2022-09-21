@@ -1,0 +1,35 @@
+,,,,,,,SCA 1,SCA 1,SCA 2,SCA 2
+Minute,Player,Squad,Outcome,Distance,Body Part,Notes,Player,Event,Player,Event
+4,İlkay Gündoğan\Ilkay-Gundogan,Manchester City,Blocked,24,Right Foot,Free kick,Jack Grealish,Fouled,Raheem Sterling,Pass (Live)
+5,Fernandinho\Fernandinho,Manchester City,Off Target,7,Head,,Benjamin Mendy,Pass (Live),Jack Grealish,Pass (Live)
+6,João Cancelo\Joao-Cancelo,Manchester City,Off Target,12,Right Foot,Half volley,João Cancelo,Dribble,,
+21,Steven Bergwijn\Steven-Bergwijn,Tottenham,Blocked,22,Right Foot,,Pierre Højbjerg,Pass (Live),Pierre Højbjerg,Fouled
+24,Davinson Sánchez\Davinson-Sanchez,Tottenham,Wayward,9,Head,,Son Heung-min,Pass (Dead),Dele Alli,Fouled
+24,Lucas Moura\Lucas-Moura,Tottenham,Blocked,11,Right Foot,Volley,Davinson Sánchez,Shot,,
+28,Son Heung-min\Son-Heung-min,Tottenham,Blocked,12,Left Foot,,Steven Bergwijn,Pass (Live),Lucas Moura,Pass (Live)
+34,Jack Grealish\Jack-Grealish,Manchester City,Blocked,19,Right Foot,,,,,
+35,Riyad Mahrez\Riyad-Mahrez,Manchester City,Off Target,10,Left Foot,Half volley,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+40,Son Heung-min\Son-Heung-min,Tottenham,Blocked,19,Right Foot,,Lucas Moura,Pass (Live),Pierre Højbjerg,Pass (Live)
+41,Riyad Mahrez\Riyad-Mahrez,Manchester City,Blocked,18,Left Foot,,Fernandinho,Pass (Live),Ederson,Pass (Dead)
+42,Son Heung-min\Son-Heung-min,Tottenham,Off Target,22,Right Foot,Half volley,Lucas Moura,Pass (Live),Son Heung-min,Pass (Live)
+44,Jack Grealish\Jack-Grealish,Manchester City,Blocked,16,Right Foot,,João Cancelo,Pass (Live),Riyad Mahrez,Pass (Live)
+44,Fernandinho\Fernandinho,Manchester City,Off Target,29,Right Foot,,Jack Grealish,Shot,,
+,,,,,,,,,,
+48,İlkay Gündoğan\Ilkay-Gundogan,Manchester City,Blocked,14,Right Foot,,Jack Grealish,Pass (Live),Riyad Mahrez,Pass (Live)
+49,Lucas Moura\Lucas-Moura,Tottenham,Off Target,25,Right Foot,,Sergio Reguilón,Pass (Live),,
+49,Raheem Sterling\Raheem-Sterling,Manchester City,Saved,20,Right Foot,,Benjamin Mendy,Pass (Live),Ederson,Pass (Dead)
+52,Fernandinho\Fernandinho,Manchester City,Off Target,30,Right Foot,,Riyad Mahrez,Pass (Live),Ferrán Torres,Pass (Live)
+53,Lucas Moura\Lucas-Moura,Tottenham,Wayward,5,Head,,Japhet Tanganga,Pass (Live),Sergio Reguilón,Pass (Live)
+54,Pierre Højbjerg\Pierre-Hojbjerg,Tottenham,Blocked,31,Right Foot,,Lucas Moura,Pass (Live),,
+55,Son Heung-min\Son-Heung-min,Tottenham,Goal,22,Left Foot,,Steven Bergwijn,Pass (Live),Lucas Moura,Pass (Live)
+57,João Cancelo\Joao-Cancelo,Manchester City,Off Target,29,Right Foot,,Fernandinho,Pass (Live),Benjamin Mendy,Pass (Live)
+60,Nathan Aké\Nathan-Ake,Manchester City,Wayward,6,Head,,Fernandinho,Pass (Live),Riyad Mahrez,Pass (Live)
+60,Steven Bergwijn\Steven-Bergwijn,Tottenham,Off Target,16,Left Foot,,,,,
+61,Steven Bergwijn\Steven-Bergwijn,Tottenham,Saved,30,Right Foot,,Sergio Reguilón,Pass (Live),Steven Bergwijn,Pass (Live)
+70,Ferrán Torres\Ferran-Torres,Manchester City,Off Target,5,Left Foot,Half volley,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Dead)
+74,Lucas Moura\Lucas-Moura,Tottenham,Blocked,11,Right Foot,Half volley,,,,
+75,Jack Grealish\Jack-Grealish,Manchester City,Saved,13,Left Foot,,Gabriel Jesus,Pass (Live),Benjamin Mendy,Pass (Live)
+79,Son Heung-min\Son-Heung-min,Tottenham,Blocked,24,Right Foot,,Pierre Højbjerg,Pass (Dead),Lucas Moura,Fouled
+81,João Cancelo\Joao-Cancelo,Manchester City,Off Target,18,Head,,Kevin De Bruyne,Pass (Dead),,
+84,Kevin De Bruyne\Kevin-De-Bruyne,Manchester City,Saved,24,Right Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+86,Ferrán Torres\Ferran-Torres,Manchester City,Saved,10,Right Foot,,João Cancelo,Pass (Live),Ferrán Torres,Pass (Live

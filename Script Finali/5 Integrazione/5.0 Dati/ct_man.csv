@@ -1,0 +1,42 @@
+,Minute,Player,Squad,Event,Event2,Player2
+0,3,Jack Grealish,Manchester City,Free kick,,
+1,4,Ilkay Gündogan,Manchester City,Shot,Assist,Jack Grealish
+2,5,Fernandinho,Manchester City,Shot,Assist,Benjamin Mendy
+3,6,João Cancelo,Manchester City,Shot,Assist,João Cancelo
+4,9,Jack Grealish,Manchester City,Free kick,,João Cancelo
+5,10,Raheem Sterling,Manchester City,Free kick,,João Cancelo
+6,15,Jack Grealish,Manchester City,Free kick,,Hugo Lloris
+7,18,Raheem Sterling,Manchester City,Foul,,Hugo Lloris
+8,19,João Cancelo,Manchester City,Corner,,Hugo Lloris
+9,21,Rúben Dias,Manchester City,Corner,,Pierre Højbjerg
+10,23,Fernandinho,Manchester City,Foul,,Pierre Højbjerg
+11,26,Raheem Sterling,Manchester City,Free kick,,Son Heung-Min
+12,30,Jack Grealish,Manchester City,Free kick,,Steven Bergwijn
+13,34,Jack Grealish,Manchester City,Shot,Assist,Steven Bergwijn
+14,35,Riyad Mahrez,Manchester City,Shot,Assist,Raheem Sterling
+15,36,Raheem Sterling,Manchester City,Free kick,,Raheem Sterling
+16,41,Riyad Mahrez,Manchester City,Shot,Assist,Fernandinho
+17,44,Jack Grealish,Manchester City,Shot,Assist,João Cancelo
+18,47,,Manchester City,Half-Time,,João Cancelo
+19,48,Ilkay Gündogan,Manchester City,Shot,Assist,Jack Grealish
+20,49,Raheem Sterling,Manchester City,Shot,Assist,Benjamin Mendy
+21,52,Fernandinho,Manchester City,Shot,Assist,Riyad Mahrez
+22,57,João Cancelo,Manchester City,Shot,Assist,Fernandinho
+23,60,Nathan Aké,Manchester City,Shot,Assist,Fernandinho
+24,66,Jack Grealish,Manchester City,Free kick,,Sergio Reguilón
+25,68,Riyad Mahrez,Manchester City,Free kick,,Sergio Reguilón
+26,70,Ferrán Torres,Manchester City,Shot,Assist,João Cancelo
+27,73,Benjamin Mendy,Manchester City,Foul,,João Cancelo
+28,75,Jack Grealish,Manchester City,Shot,Assist,Gabriel Jesus
+29,76,Ilkay Gündogan,Manchester City,Foul,,Gabriel Jesus
+30,77,Giovani Lo Celso,Manchester City,Substitution,,Steven Bergwijn
+31,78,Gabriel Jesus,Manchester City,Foul,,Steven Bergwijn
+32,79,Kevin De Bruyne,Manchester City,Substitution,,Riyad Mahrez
+33,80,Oleksandr Zinchenko,Manchester City,Substitution,,Benjamin Mendy
+34,81,João Cancelo,Manchester City,Shot,Assist,Kevin De Bruyne
+35,83,Matt Doherty,Manchester City,Substitution,,Japhet Tanganga
+36,84,Kevin De Bruyne,Manchester City,Shot,Assist,Jack Grealish
+37,86,Ferrán Torres,Manchester City,Shot,Assist,João Cancelo
+38,90,Cristian Romero,Manchester City,Substitution,,Pierre Højbjerg
+39,91,Jack Grealish,Manchester City,Yellow Card,,Pierre Højbjerg
+40,92,Nathan Aké,Manchester City,Foul,,Pierre Højbjerg

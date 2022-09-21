@@ -1,0 +1,100 @@
+Minute,Text
+96, Fine partita
+92, Fallo di Nathan Aké (Manchester City).
+92, Giovani Lo Celso (Tottenham Hotspur) conquista un calcio di punizione nella meta' campo avversaria.
+91, Davinson Sánchez (Tottenham Hotspur) e' ammonito.
+91, Jack Grealish (Manchester City) e' ammonito.
+90, Fallo di Jack Grealish (Manchester City).
+90, Lucas Moura (Tottenham Hotspur) conquista un calcio di punizione nella propria meta' campo.
+90, Sostituzione Tottenham Hotspur. Cristian Romero sostituisce Pierre-Emile Højbjerg.
+88, Calcio d'angolo Manchester City. Calcio d'angolo causato da Matt Doherty (Tottenham Hotspur).
+86, Calcio d'angolo Manchester City. Calcio d'angolo causato da Hugo Lloris (Tottenham Hotspur).
+86, Tiro parato. Ferran Torres (Manchester City) un tiro di destro da posizione decentrata sulla destra parato palla indirizzata nell'angolino in basso a destra. Assist di João Cancelo.
+84, Calcio d'angolo Manchester City. Calcio d'angolo causato da Hugo Lloris (Tottenham Hotspur).
+84, Tiro parato. Kevin De Bruyne (Manchester City) un tiro di destro da fuori area parato palla indirizzata nell'angolino in basso a destra. Assist di Jack Grealish.
+84, João Cancelo (Manchester City) conquista un calcio di punizione sulla fascia destra.
+84, Fallo di Dele Alli (Tottenham Hotspur).
+83, Oleksandr Zinchenko (Manchester City) conquista un calcio di punizione nella propria meta' campo.
+83, Fallo di Lucas Moura (Tottenham Hotspur).
+83, Sostituzione Tottenham Hotspur. Matt Doherty sostituisce Japhet Tanganga.
+81, Tentativo fallito. João Cancelo (Manchester City) un colpo di testa da fuori area di poco alto sulla destra. Assist di Kevin De Bruyne da calcio d'angolo.
+81, Calcio d'angolo Manchester City. Calcio d'angolo causato da Eric Dier (Tottenham Hotspur).
+80, Fuorigioco. Pierre-Emile Højbjerg(Tottenham Hotspur) prova il lancio lungo ma Japhet Tanganga e' colto in fuorigioco.
+79, Calcio d'angolo Tottenham Hotspur. Calcio d'angolo causato da Rúben Dias (Manchester City).
+79, Tiro respinto. Son Heung-Min (Tottenham Hotspur) un tiro di destro da fuori area. Assist di Pierre-Emile Højbjerg.
+79, Sostituzione Manchester City. Oleksandr Zinchenko sostituisce Benjamin Mendy.
+79, Sostituzione Manchester City. Kevin De Bruyne sostituisce Riyad Mahrez.
+78, Fallo di Gabriel Jesus (Manchester City).
+78, Lucas Moura (Tottenham Hotspur) conquista un calcio di punizione nella meta' campo avversaria.
+77, Sostituzione Tottenham Hotspur. Giovani Lo Celso sostituisce Steven Bergwijn.
+76, Fallo di Ilkay Gündogan (Manchester City).
+76, Lucas Moura (Tottenham Hotspur) conquista un calcio di punizione nella propria meta' campo.
+74, Tiro parato. Jack Grealish (Manchester City) un tiro di sinistro dalla sinistra dell'area parato palla indirizzata nel centro della porta. Assist di Gabriel Jesus con passaggio filtrante.
+74, Tiro respinto. Lucas Moura (Tottenham Hotspur) un tiro di destro da centro area.
+73, Fallo di Benjamin Mendy (Manchester City).
+73, Lucas Moura (Tottenham Hotspur) conquista un calcio di punizione sulla fascia destra.
+70, Sostituzione Manchester City. Gabriel Jesus sostituisce Raheem Sterling.
+70, Tentativo fallito. Ferran Torres (Manchester City) un tiro di sinistro da posizione molto ravvicinata che esce di molto sulla destra. Assist di João Cancelo con cross in seguito a un calcio da fermo.
+68, Riyad Mahrez (Manchester City) conquista un calcio di punizione nella meta' campo avversaria.
+68, Fallo di Dele Alli (Tottenham Hotspur).
+66, Lucas Moura (Tottenham Hotspur) e' ammonito.
+66, Jack Grealish (Manchester City) conquista un calcio di punizione nella propria meta' campo.
+66, Fallo di Lucas Moura (Tottenham Hotspur).
+65, Fallo di Benjamin Mendy (Manchester City).
+65, Son Heung-Min (Tottenham Hotspur) conquista un calcio di punizione sulla fascia destra.
+64, Calcio d'angolo Manchester City. Calcio d'angolo causato da Dele Alli (Tottenham Hotspur).
+63, Calcio d'angolo Manchester City. Calcio d'angolo causato da Japhet Tanganga (Tottenham Hotspur).
+61, Tiro parato. Steven Bergwijn (Tottenham Hotspur) un tiro di destro da fuori area parato palla indirizzata nell'angolino in basso a destra. Assist di Sergio Reguilón.
+60, Tentativo fallito. Steven Bergwijn (Tottenham Hotspur) un tiro di sinistro da centro area di poco a lato sulla sinistra in seguito a un contropiede.
+60, Tentativo fallito. Nathan Aké (Manchester City) un colpo di testa da centro area di poco a lato sulla sinistra. Assist di Fernandinho con suggerimento di testa da calcio d'angolo.
+59, Calcio d'angolo Manchester City. Calcio d'angolo causato da Japhet Tanganga (Tottenham Hotspur).
+58, Calcio d'angolo Manchester City. Calcio d'angolo causato da Japhet Tanganga (Tottenham Hotspur).
+57, Tentativo fallito. João Cancelo (Manchester City) un tiro di destro da fuori area che esce di molto sulla sinistra. Assist di Fernandinho.
+55, Gol! Tottenham Hotspur 1 Manchester City 0. Son Heung-Min (Tottenham Hotspur) un tiro di sinistro da fuori area palla indirizzata nell'angolino in basso a sinistra. Assist di Steven Bergwijn.
+54, Tiro respinto. Pierre-Emile Højbjerg (Tottenham Hotspur) un tiro di destro da fuori area. Assist di Lucas Moura.
+52, Tentativo fallito. Fernandinho (Manchester City) un tiro di destro da fuori area che esce di molto sulla sinistra. Assist di Riyad Mahrez.
+49, Tiro parato. Raheem Sterling (Manchester City) un tiro di destro dalla sinistra dell'area parato palla indirizzata nell'angolino in basso a sinistra. Assist di Benjamin Mendy.
+49, Tentativo fallito. Lucas Moura (Tottenham Hotspur) un tiro di destro da fuori area che esce di molto sulla sinistra. Assist di Sergio Reguilón.
+48, Tiro respinto. Ilkay Gündogan (Manchester City) un tiro di sinistro da centro area. Assist di Jack Grealish.
+47, Inizia il secondo tempo 
+44, Tentativo fallito. Fernandinho (Manchester City) un tiro di destro da fuori area di poco a lato sulla destra.
+44, Tiro respinto. Jack Grealish (Manchester City) un tiro di destro da centro area. Assist di João Cancelo.
+42, Tentativo fallito. Son Heung-Min (Tottenham Hotspur) un tiro di destro da fuori area tira alto. Assist di Lucas Moura con suggerimento di testa.
+41, Fuorigioco. Riyad Mahrez(Manchester City) prova il lancio lungo ma Ferran Torres e' colto in fuorigioco.
+41, Tiro respinto. Riyad Mahrez (Manchester City) un tiro di sinistro da fuori area. Assist di Ilkay Gündogan.
+40, Tentativo fallito. Son Heung-Min (Tottenham Hotspur) un tiro di destro da fuori area di poco a lato sulla destra. Assist di Lucas Moura in seguito a un contropiede.
+39, Calcio d'angolo Manchester City. Calcio d'angolo causato da Oliver Skipp (Tottenham Hotspur).
+36, Raheem Sterling (Manchester City) conquista un calcio di punizione nella propria meta' campo.
+36, Fallo di Japhet Tanganga (Tottenham Hotspur).
+35, Tentativo fallito. Riyad Mahrez (Manchester City) un tiro di sinistro da centro area che esce di molto sulla sinistra.
+34, Tiro respinto. Jack Grealish (Manchester City) un tiro di destro dalla sinistra dell'area.
+30, Jack Grealish (Manchester City) conquista un calcio di punizione sulla fascia sinistra.
+30, Fallo di Davinson Sánchez (Tottenham Hotspur).
+28, Fuorigioco. Son Heung-Min(Tottenham Hotspur) prova il lancio lungo ma Lucas Moura e' colto in fuorigioco.
+28, Tiro respinto. Son Heung-Min (Tottenham Hotspur) un tiro di sinistro da centro area. Assist di Steven Bergwijn.
+26, Raheem Sterling (Manchester City) conquista un calcio di punizione sulla fascia sinistra.
+26, Fallo di Japhet Tanganga (Tottenham Hotspur).
+24, Tiro respinto. Lucas Moura (Tottenham Hotspur) un tiro di destro dalla destra dell'area.
+24, Tentativo fallito. Davinson Sánchez (Tottenham Hotspur) un colpo di testa da centro area che esce di molto sulla destra. Assist di Son Heung-Min con cross in seguito a un calcio da fermo.
+23, Fallo di Fernandinho (Manchester City).
+23, Dele Alli (Tottenham Hotspur) conquista un calcio di punizione nella meta' campo avversaria.
+21, Calcio d'angolo Tottenham Hotspur. Calcio d'angolo causato da Rúben Dias (Manchester City).
+21, Tiro respinto. Steven Bergwijn (Tottenham Hotspur) un tiro di destro da fuori area. Assist di Pierre-Emile Højbjerg.
+19, Calcio d'angolo Tottenham Hotspur. Calcio d'angolo causato da João Cancelo (Manchester City).
+18, Fallo di Raheem Sterling (Manchester City).
+18, Japhet Tanganga (Tottenham Hotspur) conquista un calcio di punizione nella propria meta' campo.
+15, Jack Grealish (Manchester City) conquista un calcio di punizione sulla fascia sinistra.
+15, Fallo di Pierre-Emile Højbjerg (Tottenham Hotspur).
+13, Fuorigioco. Hugo Lloris(Tottenham Hotspur) prova il lancio lungo ma Son Heung-Min e' colto in fuorigioco.
+11, Calcio d'angolo Manchester City. Calcio d'angolo causato da Oliver Skipp (Tottenham Hotspur).
+10, Raheem Sterling (Manchester City) conquista un calcio di punizione sulla fascia sinistra.
+10, Fallo di Japhet Tanganga (Tottenham Hotspur).
+9, Jack Grealish (Manchester City) conquista un calcio di punizione sulla fascia sinistra.
+9, Fallo di Japhet Tanganga (Tottenham Hotspur).
+6, Tentativo fallito. João Cancelo (Manchester City) un tiro di destro da centro area di poco a lato sulla sinistra.
+5, Tentativo fallito. Fernandinho (Manchester City) un colpo di testa da centro area che esce di molto sulla sinistra. Assist di Benjamin Mendy con cross da calcio d'angolo.
+4, Calcio d'angolo Manchester City. Calcio d'angolo causato da Oliver Skipp (Tottenham Hotspur).
+4, Tiro respinto. Ilkay Gündogan (Manchester City) un tiro di destro da fuori area.
+3, Jack Grealish (Manchester City) conquista un calcio di punizione nella meta' campo avversaria.
+3, Fallo di Oliver Skipp (Tottenham Hotspur).
+1, inizia primo tempo
